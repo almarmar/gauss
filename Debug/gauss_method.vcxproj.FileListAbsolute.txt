@@ -1,0 +1,2 @@
+C:\Users\Alyona\source\repos\gauss_method\Debug\gauss_method.exe
+C:\Users\Alyona\source\repos\gauss_method\Debug\gauss_method.pdb
